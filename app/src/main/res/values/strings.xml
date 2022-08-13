@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MiFirstApp</string>
+    <string name="mensajeBienvenida">Welcome</string>
+    <string name="descripcionImagen">tux image linux</string>
+</resources>
